@@ -1,5 +1,6 @@
 version: STSv1
 mode: testing
+mx: line0.bemodern.co.uk
 mx: mail.be-modern.com
 mx: bemodern-co-uk.mail.protection.outlook.com
 mx: mx00.1and1.co.uk
